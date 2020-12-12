@@ -21,7 +21,9 @@ CLONE NOW AND GET STARTED!
         - ag22.csv
         - ochl.csv
         - ochl60.csv
-   
+###  1 min K-Line Diagram Display
+---------------------------    
+ ![image](https://github.com/anqi666/Draw-K-line-based-on-CTP-data/blob/main/DrawK_CTP/ag2012_jpg/ag2012_1min.jpg)   
 ### Dependencies
 ---------------------------
 - pandas
